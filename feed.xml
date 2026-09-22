@@ -4,10 +4,17 @@
     <title>Kubernetes Operators &amp; Cloud Native Hub</title>
     <link>https://kubernetes-operators-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 06:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:06:01 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-operators-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                    <item>
+                        <item>
+      <title>📅 Today's Fresh Pick: r/netsec Network Security (Reddit)</title>
+      <link>https://www.reddit.com/r/netsec/</link>
+      <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-reddit-20260922-1-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 06:06:01 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Peer-reviewed technical infosec community sharing vulnerability advisories, exploit analysis, and security whitepapers.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/cybersecurity Defense Hub (Reddit)</title>
       <link>https://www.reddit.com/r/cybersecurity/</link>
       <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-reddit-20260921-1-2026-09-21</guid>
