@@ -4,10 +4,17 @@
     <title>Kubernetes Operators &amp; Cloud Native Hub</title>
     <link>https://kubernetes-operators-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 06:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:06:10 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-operators-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                    <item>
+                                        <item>
+      <title>📅 Today's Fresh Pick: TryHackMe Official Discord (Discord)</title>
+      <link>https://discord.gg/tryhackme</link>
+      <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-discord-20260927-1-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 06:06:10 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
       <link>https://discord.gg/hackthebox</link>
       <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-discord-20260925-1-2026-09-25</guid>
