@@ -4,10 +4,17 @@
     <title>Kubernetes Operators &amp; Cloud Native Hub</title>
     <link>https://kubernetes-operators-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 06:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:30:42 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-operators-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                        <item>
+                                                            <item>
+      <title>📅 Today's Fresh Pick: OWASP CheatSheet Discussions (GitHub)</title>
+      <link>https://github.com/OWASP/CheatSheetSeries/discussions</link>
+      <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-github-20261003-1-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 06:30:42 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Official community contributions and reviews on OWASP application security best practices.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Community Forum (Forum)</title>
       <link>https://forum.hackthebox.com</link>
       <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-forum-20261002-1-2026-10-02</guid>
