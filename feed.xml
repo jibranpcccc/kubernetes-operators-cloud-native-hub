@@ -4,10 +4,17 @@
     <title>Kubernetes Operators &amp; Cloud Native Hub</title>
     <link>https://kubernetes-operators-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:06:35 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-operators-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-forum-20261011-1-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:06:35 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-forum-20261011-1-2026-10-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-discord-20260925-1-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:06:16 GMT</pubDate>
       <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/bugbounty Hunters (Reddit)</title>
-      <link>https://www.reddit.com/r/bugbounty/</link>
-      <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-reddit-20260924-1-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:05:58 GMT</pubDate>
-      <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Tips, methodologies, writeups, and bounty program discussions for HackerOne and Bugcrowd researchers.</description>
     </item>
   </channel>
 </rss>
