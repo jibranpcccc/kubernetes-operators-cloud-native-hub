@@ -4,10 +4,17 @@
     <title>Kubernetes Operators &amp; Cloud Native Hub</title>
     <link>https://kubernetes-operators-cloud-native-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:15:37 GMT</lastBuildDate>
     <atom:link href="https://kubernetes-operators-cloud-native-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
+      <link>https://discuss.kubernetes.io</link>
+      <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-discord-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 07:15:37 GMT</pubDate>
+      <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps Global Discord (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-discord-5-2026-11-22</guid>
@@ -173,13 +180,6 @@
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-forum-20261011-1-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:06:24 GMT</pubDate>
-      <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
-      <link>https://news.ycombinator.com</link>
-      <guid isPermaLink="false">https://kubernetes-operators-cloud-native-hub.netlify.app/#kubernetes-operators-cloud-native-hub-forum-20261011-1-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:07:16 GMT</pubDate>
       <description>Newly verified community added to Kubernetes Operators &amp; Cloud Native Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
     </item>
   </channel>
